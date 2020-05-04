@@ -1,0 +1,29 @@
+##################################################################
+# Syntax Coloring Map For
+# Arduino library for Sensirion SHTC3 Digital Humidity and Temperature Sensor
+##################################################################
+
+##################################################################
+# Datatypes (KEYWORD1)
+##################################################################
+
+ClosedCube	KEYWORD1
+Sensor	KEYWORD1
+SHTC3	KEYWORD1
+
+
+##################################################################
+# Methods and Functions (KEYWORD2)
+##################################################################
+
+address	KEYWORD2
+readTempAndHumidity	KEYWORD2
+softReset	KEYWORD2
+wakeUp	KEYWORD2
+sleep	KEYWORD2
+readId	KEYWORD2
+address	KEYWORD2
+
+
+
+### Updated: Monday, 04 May 2020 at 21:16:17 GMT-00:00
