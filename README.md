@@ -18,6 +18,10 @@ This is a ClosedCube breakout board for Sensiron SHTC3 Humidity and Temperature 
 - B026_SHTC3_2MM
 - B026_SHTC3_PH (with pre-soldered JST PH 2.0mm pitch 4 Contact Header)
 
+
+![](https://images.closedcube.uk/B026_SHTC3/B026_SHTC3_PH_GitHub_1.jpg)
+![](https://images.closedcube.uk/B026_SHTC3/B026_SHTC3_PH_GitHub_2.jpg)
+
 **Requirements:**
 
 - ClosedCube I2C Driver (Wrapper) https://github.com/closedcube/ClosedCube_I2C_Arduino
@@ -47,4 +51,4 @@ This is a ClosedCube breakout board for Sensiron SHTC3 Humidity and Temperature 
 TBD
 
 
-Updated: Monday, 04 May 2020 at 21:16:17 GMT-00:00
+Updated: Tuesday, 05 May 2020 at 20:47:58 GMT-00:00
