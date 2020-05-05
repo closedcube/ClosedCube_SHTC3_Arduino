@@ -7,8 +7,8 @@ This is a ClosedCube breakout board for Sensiron SHTC3 Humidity and Temperature 
 
 **Features:**
 
-- Ultra-low power consumption
-- Full battery supply voltage range (1.62 - 3.6 V)
+- Ultra-Low Power consumption
+- Full battery supply voltage range (1.62V - 3.6V)
 - Typical accuracy: ±2%RH and ±0.2°C
 - Fully calibrated
 - I2C address fixed 0x70
@@ -16,8 +16,7 @@ This is a ClosedCube breakout board for Sensiron SHTC3 Humidity and Temperature 
 
 **Manufacturer Part No:**
 - B026_SHTC3_2MM
-- B026_SHTC3_PH (with pre-soldered JST PH 2.0mm pitch 4 Contact Header)
-
+- B026_SHTC3_PH (pre-soldered 4 Contact Header JST PH 2.0mm pitch)
 
 ![](https://images.closedcube.uk/B026_SHTC3/B026_SHTC3_PH_GitHub_1.jpg)
 ![](https://images.closedcube.uk/B026_SHTC3/B026_SHTC3_PH_GitHub_2.jpg)
@@ -45,10 +44,9 @@ This is a ClosedCube breakout board for Sensiron SHTC3 Humidity and Temperature 
 | Europe,Asia,Oceania | TBD |
 | USA  | TBD |
 
-
 ![Tindie Logo](http://images.closedcube.uk/logo/github/tindie.png)
 
 TBD
 
 
-Updated: Tuesday, 05 May 2020 at 20:47:58 GMT-00:00
+Updated: Tuesday, 05 May 2020 at 20:54:54 GMT-00:00
