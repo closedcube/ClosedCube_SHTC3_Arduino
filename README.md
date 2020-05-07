@@ -49,4 +49,4 @@ This is a ClosedCube breakout board for Sensiron SHTC3 Humidity and Temperature 
 TBD
 
 
-Updated: Tuesday, 05 May 2020 at 20:54:54 GMT-00:00
+Updated: Thursday, 07 May 2020 at 19:58:38 GMT-00:00
