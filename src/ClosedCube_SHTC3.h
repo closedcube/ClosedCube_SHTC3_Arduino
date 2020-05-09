@@ -1,7 +1,7 @@
 /*
 
 Arduino library for Arduino library for Sensirion SHTC3 Digital Humidity and Temperature Sensor
-version 2020.5.7
+version 2020.5.9
 
 ---
 
