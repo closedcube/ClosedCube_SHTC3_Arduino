@@ -42,11 +42,11 @@ This is a ClosedCube breakout board for Sensiron SHTC3 Humidity and Temperature 
 | Region  | Link |
 | ------------- | ------------- |
 | Europe,Asia,Oceania | https://www.ebay.co.uk/itm/184287330561 |
-| USA  | https://www.ebay.com/itm/184287332882 |
+| USA, Canada  | https://www.ebay.com/itm/184287332882 |
 
 ![Tindie Logo](http://images.closedcube.uk/logo/github/tindie.png)
 
 https://www.tindie.com/products/20017/ 
 
 
-Updated: Sunday, 10 May 2020 at 22:18:29 GMT-00:00
+Updated: Sunday, 10 May 2020 at 22:19:58 GMT-00:00
