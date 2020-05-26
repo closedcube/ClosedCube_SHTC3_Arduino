@@ -3,7 +3,7 @@
 Example: shtc3demo
 
 Arduino library for Arduino library for Sensirion SHTC3 Digital Humidity and Temperature Sensor
-version 2020.5.19
+version 2020.5.26
 
 ---
 
